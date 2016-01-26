@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Victory Design]]></title>
         <description><![CDATA[Victory Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/victory-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 10:25:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 10:26:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/victory-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Great Website Starts witha Great Website Solution]]></title>
+            <description><![CDATA[<article><h1>A Great Website Starts witha Great Website Solution</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d69740086df0dd7133f08bcbc2cb234e81c0a37e.png"></article>]]></description>
+            <link>https://thegrid.ai/victory-design/a-great-website-starts-witha-great-website-solution/index.html</link>
+            <guid isPermaLink="false">349db760-c0f5-45bd-8271-ae86b77813c9</guid>
+            <pubDate>Tue, 26 Jan 2016 10:25:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://victorydesign.ca/wp-content/uploads/2015/03/About-Us-BIG-Logo.png">]]></description>
-            <link>undefined0bf4e8ce-a903-4a62-903e-e6f8b280f637/index.html</link>
+            <link>https://thegrid.ai/victory-design/0bf4e8ce-a903-4a62-903e-e6f8b280f637/index.html</link>
             <guid isPermaLink="false">0bf4e8ce-a903-4a62-903e-e6f8b280f637</guid>
             <pubDate>Tue, 26 Jan 2016 10:25:17 GMT</pubDate>
         </item>
